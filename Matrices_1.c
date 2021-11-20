@@ -18,8 +18,8 @@ int main()
 	int x,y,z
  printf("carlos alberto flores resnediz");
  scanf("%d",&x);
- printf("soy el mas guapo");
+ printf("Hub:";)
  scanf("%d",&y);
- ese valedor que saque los tabacos
+ printf("a:");
 	return 0;
 }
