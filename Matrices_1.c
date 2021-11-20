@@ -20,6 +20,6 @@ int main()
  scanf("%d",&x);
  printf("soy el mas guapo");
  scanf("%d",&y);
- 
+ ese valedor que saque los tabacos
 	return 0;
 }
