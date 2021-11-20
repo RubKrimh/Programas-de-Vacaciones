@@ -15,11 +15,5 @@ int main()
 				
 		}
 	}
-	int x,y,z
- printf("carlos alberto flores resnediz");
- scanf("%d",&x);
- printf("Hub:";)
- scanf("%d",&y);
- printf("a:");
 	return 0;
 }
