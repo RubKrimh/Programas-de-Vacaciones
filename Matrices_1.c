@@ -15,6 +15,11 @@ int main()
 				
 		}
 	}
+	int x,y,z
+ printf("carlos alberto flores resnediz");
+ scanf("%d",&x);
+ printf("soy el mas guapo");
+ scanf("%d",&y);
  
 	return 0;
 }
